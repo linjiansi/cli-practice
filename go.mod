@@ -1,4 +1,4 @@
-module github.com/linjiansi/cli-practice
+module github.com/linjiansi/gif-generator
 
 go 1.18
 

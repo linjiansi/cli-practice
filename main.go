@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "github.com/linjiansi/cli-practice/cmd"
+import "github.com/linjiansi/gif-generator/cmd"
 
 func main() {
 	cmd.Execute()
